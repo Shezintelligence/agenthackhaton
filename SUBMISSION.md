@@ -8,7 +8,7 @@
 - [x] **Solana integration designed** — Anchor program architecture complete
 - [x] **Live demos** — 3 real briefs across diverse domains (100+ KB output)
 - [x] **Code repository** — Clean structure, good documentation
-- [ ] **GitHub repo public** — Push code, update forum with link
+- [x] **GitHub repo public** — https://github.com/Shezintelligence/agenthackhaton
 - [ ] **Project created** — Submit to Colosseum platform
 
 ### ✅ Documentation
@@ -171,10 +171,10 @@ If we win **Most Agentic** ($5,000 USDC):
 - ✅ TypeScript integration layer
 - ✅ Documentation (README, ARCHITECTURE, DEMOS)
 - ✅ Forum intro post (Post #4068)
+- ✅ GitHub repository (https://github.com/Shezintelligence/agenthackhaton)
 
 **In Progress**:
 - ⏳ Demo #3 (LSD protocol analysis) — running now
-- ⏳ GitHub repo creation — need Wilson to create
 
 **Todo**:
 - [ ] Push code to GitHub

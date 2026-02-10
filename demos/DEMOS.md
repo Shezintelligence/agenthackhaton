@@ -57,31 +57,29 @@ This folder contains **real outputs** from the Atlas multi-agent research system
 
 ---
 
-## Demo 3: Liquid Staking Derivatives Protocol Launch (22KB)
+## Demo 3: Liquid Staking Derivatives Protocol Launch (28.5KB)
 
 **File**: `demo3_lsd_protocol.md`
 
-**Request**: Design a 6-month go-to-market plan for launching a Solana LST protocol competing with Marinade, Jito, and Sanctum
+**Request**: Design a 90-day go-to-market strategy for launching a Solana LSD protocol competing with Marinade, Jito, and Sanctum
 
 **Execution**:
-- Runtime: 4 minutes 33 seconds
+- Runtime: 4 minutes 7 seconds
 - Model: Claude Opus 4.6 (high reasoning)
-- Tokens: 41.7k (input 1k / output 1.5k)
-- Web research: Live DefiLlama TVL data, Sanctum yields, audit cost benchmarks
+- Tokens: 33.5k (input 1k / output 309)
+- Web research: Live Solana staking data, DefiLlama TVL, Sanctum integration, exchange distribution analysis
 
 **Output Quality**:
-- ✅ 4-agent simulation across product/technical, growth, strategic, and risk domains
-- ✅ GO WITH CONDITIONS decision (3 specific conditions)
-- ✅ Market intelligence: $8B+ Solana staking market, 217% YoY growth, live competitor data (Jito $1.79B, DoubleZero $1.66B, Marinade $476M)
-- ✅ Product strategy: Hybrid approach (launch via Sanctum in 10 weeks, build proprietary in parallel)
-- ✅ Economic modeling: 3 TVL scenarios with path to profitability (conservative $10M / base $50M / aggressive $200M)
-- ✅ Risk analysis: 6 kill scenarios (smart contract exploit, fee competition, exchange LST dominance, regulatory, infrastructure dependency, validator centralization) with mitigation strategies
-- ✅ Top 8 priority actions for first 90 days with week-by-week timing
-- ✅ Budget envelope: $1.35M (low) / $2.54M (medium) / $4.74M (high)
-- ✅ Team structure: 5 key roles with salary ranges
-- ✅ 8 KPIs: TVL target (500K SOL by M12), unique holders (10K), APY rank (top 5), DeFi integrations (6+), validator set (100+), monthly revenue ($25K+), security incidents (zero), retention (>80%)
-- ✅ One-page executive summary for VCs
-- ✅ 2-minute fundraising pitch script
+- ✅ Market intelligence: $8B Solana LST sector across 57M SOL, Jito dominates at 14.3M SOL (25% share), APYs cluster 5.5-6.5%
+- ✅ Strategic positioning: "Restaking-Native Institutional LST" combining three yield layers (staking + MEV + restaking) for 6.5-7.5% target APY
+- ✅ Competitive advantage: Structural advantage over JitoSOL's 5.87% through restaking integration
+- ✅ TVL targets (90-day): Conservative 750K SOL / Base 2M SOL / Aggressive 5M SOL
+- ✅ Budget modeling: $1.55-2.05M for 90-day launch (excluding seed liquidity)
+- ✅ User acquisition economics: Blended $0.71/SOL/year; break-even at ~4.2M SOL with 4% commission
+- ✅ Critical leverage points: Exchange distribution (Binance got 10.7M SOL) and Sanctum integration (zero cold-start)
+- ✅ Top 10 priority actions with week-by-week timing (Week 0 → Week 12)
+- ✅ Risk analysis: Smart contract security, yield sustainability, liquidity depth, competitive response
+- ✅ Go-to-market roadmap: Sanctum integration + institutional partnerships + exchange listings
 
 **Why This Matters**: Demonstrates Atlas can produce investor-grade DeFi strategy. This brief is sophisticated enough for actual fundraising—includes realistic economics (acknowledging that fee revenue doesn't work below $500M TVL), competitive kill scenarios, and specific go-to-market tactics. Completely different domain from government policy (Demo 1) or legal frameworks (Demo 2), proving the 4-agent structure is genuinely reusable.
 
